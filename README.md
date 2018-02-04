@@ -1,2 +1,1 @@
-# android_hardware_lenovo_aio_row
-oreo
+HAL and helper libraries for Lenovo A7000
