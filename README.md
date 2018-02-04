@@ -1,0 +1,2 @@
+# android_hardware_lenovo_aio_row
+oreo
